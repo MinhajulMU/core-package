@@ -1,6 +1,6 @@
 <?php
 
-namespace Minhajul\CorePackage\Api;
+namespace Minhack\CorePackage\Api;
 
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Http\JsonResponse;

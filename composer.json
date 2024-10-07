@@ -2,7 +2,7 @@
     "name": "minhack/core-package",
     "autoload": {
         "psr-4": {
-            "Minhajul\\CorePackage\\": "src/"
+            "Minhack\\CorePackage\\": "src/"
         }
     },
     "authors": [
